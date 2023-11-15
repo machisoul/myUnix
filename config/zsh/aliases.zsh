@@ -1,0 +1,6 @@
+alias h='cd ~/'
+alias w='cd ~/workspace'
+alias c='clear'
+alias lg='lazygit'
+alias vi='nvim'
+alias l='ls -al'
