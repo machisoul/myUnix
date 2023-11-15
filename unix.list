@@ -1,0 +1,29 @@
+# Software
+1. nvim
+	- requirment:
+收起大括号
+git修改点预览
+lsp
+自动补全paire，并且编辑会可以跳出
+自动补全{}
+
+	- plugins:
+flash
+fzf
+Telescope
+nvim-tree
+nvim-cmp
+nvim-lspconfig
+cmp
+mason
+
+clang
+ctags
+go
+nodejs
+npm error!!
+yarn
+
+
+
+
